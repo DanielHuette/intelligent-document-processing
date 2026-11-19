@@ -1,12 +1,9 @@
 # Intelligent Document Processing
 
-Bucht eine eingehende Rechnung nur, wenn jede Entscheidung sicher ist und jede Prüfung besteht; alles andere geht mit Begründung an einen Menschen.
+[English version](README.md) · [Projektseite](https://intelligentdocumentprocessing.speedofthespirit.dev)
 
-[English version](README.md) · [Projektseite](https://intelligentdocumentprocessing.speedofthespirit.dev/#projekt) · [Live-Vorführung](https://danielironhack247-idp.hf.space/form/rechnungseingang)
-
-Stand: gemessen auf 250 synthetischen Dokumenten.
-
-> Die Live-Vorführung läuft auf einem Hugging-Face-Space. War sie zwei Tage unbenutzt, weckt der
+> **Live-Vorführung:** https://danielironhack247-idp.hf.space/form/rechnungseingang
+> Die Vorführung läuft auf einem Hugging-Face-Space. War sie zwei Tage unbenutzt, weckt der
 > erste Aufruf den Server, das kann **bis zu zwei Minuten** dauern. Danach antwortet
 > jeder Aufruf in wenigen Sekunden.
 

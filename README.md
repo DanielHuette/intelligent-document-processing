@@ -1,12 +1,9 @@
 # Intelligent Document Processing
 
-Books an incoming invoice only when every decision is confident and every check passes, and sends everything else to a person with the reason attached.
+[Deutsche Fassung](README.de.md) · [Project page](https://intelligentdocumentprocessing.speedofthespirit.dev)
 
-[Deutsche Fassung](README.de.md) · [Project page](https://intelligentdocumentprocessing.speedofthespirit.dev/#projekt) · [Live demo](https://danielironhack247-idp.hf.space/form/rechnungseingang)
-
-Status: measured on 250 synthetic documents.
-
-> The live demo runs on a Hugging Face Space. If nobody has used it for two days, the first
+> **Live demo:** https://danielironhack247-idp.hf.space/form/rechnungseingang
+> The demo runs on a Hugging Face Space. If nobody has used it for two days, the first
 > request wakes the server, which can take **up to two minutes**. Every request after that
 > answers within seconds.
 
